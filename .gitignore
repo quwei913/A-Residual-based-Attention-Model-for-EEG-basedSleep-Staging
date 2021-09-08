@@ -1,0 +1,10 @@
+output/
+*.*~
+MASS/
+logs
+__pycache__
+*.out
+.idea/
+.ipynb_checkpoints/
+data/*.edf
+data/*/
